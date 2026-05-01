@@ -1,23 +1,21 @@
 <div align="center">
 
-# 👋 Hey, I'm Adarsh Kumar Verma
-
-### ☁️ Cloud Engineer in Progress | DevOps Enthusiast | Linux Lover
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Learning+Cloud+%26+DevOps+Every+Day;%23100DaysOfCloud+Journey;Building+Real-World+Projects;One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
+![Banner](https://raw.githubusercontent.com/Adarsh-git-star/Adarsh-git-star/main/github_banner.svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 Hey, I'm Adarsh Kumar Verma!
+
+<img align="right" width="200" src="https://raw.githubusercontent.com/Adarsh-git-star/Adarsh-git-star/main/github_banner.svg"/>
 
 - 🎓 Pursuing **Bachelor of Computer Applications**
 - 📍 Based in **Prayagraj, India**
 - ☁️ On a **#100DaysOfCloud** journey
 - 🌱 Currently learning **AWS, Linux & Networking**
 - 🎯 Goal: **Become a Cloud Engineer**
-- 🌐 Portfolio: [adarshmrj.netlify.app](https://adarshmrj.netlify.app/)
+- 🌐 Portfolio: [Adarsh-git-star.github.io](https://Adarsh-git-star.github.io)
 - ✍️ Blog: [adarsh-cloud.hashnode.dev](https://adarsh-cloud.hashnode.dev/)
 
 ---
@@ -30,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -65,7 +62,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-verma-a01081295/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh-git-star)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://adarsh-cloud.hashnode.dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://adarshmrj.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://Adarsh-git-star.github.io)
 
 </div>
 
@@ -74,7 +71,7 @@
 <div align="center">
 
 ### 💬 *"Consistency > Motivation"*
-### *Building every day · One commit at a time · Learning in public* 🔥
+### *Building every day · One commit at a time 🔥*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-git-star&color=6366f1&style=flat-square)
 
